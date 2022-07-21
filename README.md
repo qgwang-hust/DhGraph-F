@@ -1,6 +1,6 @@
-<img src="DhGraph.png" width="16%" height="16%">
+<img src="DhGraph.png" width="20%" height="20%">
 
-# DhGraph-F
+# A Data-Centric Accelerator for High-Performance Hypergraph Processing
 
 ## Introduction
 
