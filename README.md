@@ -1,3 +1,5 @@
+<img src="DhGraph.png" width="16%" height="16%">
+
 # DhGraph-F
 
 ## Introduction
